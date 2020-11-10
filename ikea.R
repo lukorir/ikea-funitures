@@ -2,7 +2,6 @@
 # ikea data
 
 # Working directory
-setwd("C:/Users/lkorir/OneDrive - CGIAR/Documents/resakss market price data/Rural population age structure")
 
 # Load libraries
 library(tidyverse)
